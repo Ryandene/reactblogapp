@@ -46,7 +46,7 @@ const Home = () => {
                         <div className="card-body">
                             <h5 className="card-title">Who We Are</h5>
                             <p className="card-text">Get to Know About US</p>
-                            <Link to="/About US" className="btn btn-info">About US</Link>
+                            <Link to="/about" className="btn btn-info">About US</Link>
                         </div>
                     </div>
                 </div>
